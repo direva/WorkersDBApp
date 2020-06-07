@@ -35,6 +35,7 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 .idea
+.settings
 
 ##############################
 ## Visual Studio Code
